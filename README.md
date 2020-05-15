@@ -1,3 +1,7 @@
+# Solution preview
+<img src="LiDAR_obstacle_detection_4_screencast.gif"/>
+
+
 # Sensor Fusion Self-Driving Car Course
 
 <img src="media/ObstacleDetectionFPS.gif" width="700" height="400" />
